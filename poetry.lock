@@ -916,10 +916,7 @@ version = "4.1.0"
 description = "Pytest plugin for measuring coverage."
 optional = false
 python-versions = ">=3.7"
-<<<<<<< HEAD
-=======
 groups = ["dev"]
->>>>>>> 858719b (chore: update dependencies)
 files = [
     {file = "pytest-cov-4.1.0.tar.gz", hash = "sha256:3904b13dfbfec47f003b8e77fd5b589cd11904a21ddf1ab38a64f204d6a10ef6"},
     {file = "pytest_cov-4.1.0-py3-none-any.whl", hash = "sha256:6ba70b9e97e69fcc3fb45bfeab2d0a138fb65c4d0d6a41ef33983ad114be8c3a"},
@@ -1153,4 +1150,4 @@ files = [
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.8"
-content-hash = "e9c0edc954833de8f0bc7ea628dd733a722069c592849719c6700286b4ce92a3"
+content-hash = "d211b8bce8ff78c818bb1487632f256d5dbfa19b3866cd46cf8cfcfb78dff409"
